@@ -22,4 +22,4 @@
 * https://github.com/asad-khilji/ORM
 
 ## Video Walkthrough
-* 
+* https://youtu.be/HdGx4zxOq4g
